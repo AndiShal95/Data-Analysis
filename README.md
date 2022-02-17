@@ -1,17 +1,19 @@
 # Портфолио по анализу данных на Python
 
 ##&emsp;Базовый анализ данных
+
 &emsp; В рамках курса изучена работа с прикладными библиотеками *NumPy* и *Pandas* для базовой подготовки данных для анализа, а именно:
 - импорт данных(*формата .csv, .tsv*) из различных интернет ресурсов и локальных источников 
-[link to code import data](Basic%20Lib%20Data%20Analys/Import-data-Pandas.py)
+[link to code import data](1_Basic%20Lib%20Data%20Analys/Import-data-Pandas.py)
 - объединение данных из нескольких источников 
-в один "dataframe" [link to code multiple-sourses data](Basic%20Lib%20Data%20Analys/Multiple-sourses-data.py)
+в один "dataframe" [link to code multiple-sourses data](1_Basic%20Lib%20Data%20Analys/Multiple-sourses-data.py)
 - фильтрацию и извлечение нужных данных из "dataframe", а также преобразование данных для дальнейшего анализа
-[link to code extraction data](Basic%20Lib%20Data%20Analys/data-extraction.py)
+[link to code extraction data](1_Basic%20Lib%20Data%20Analys/data-extraction.py)
 - группировка данных и построение простого предсказания события на основе модели линейной регрессии
-[link to code extraction data](Basic%20Lib%20Data%20Analys/Predicting_LR.py)
+[link to code extraction data](1_Basic%20Lib%20Data%20Analys/Predicting_LR.py)
 
 ##&emsp;Импорт и парсинг данных
+
 &emsp; В данном курсе рассмотрена работа с прикладными библиотеками requests и bs4 для работы с API и получением данных из HTML, то есть:
 - работа с программным интерфейсом приложения(_API_) для получения необходимых данных; получены координаты города с помощью API геокодера Яндекса
 [link to code receiving data](Importing%20and%20Parsing%20data/reseiving_data_by_API.py) 
@@ -23,6 +25,7 @@
 [link to code download data](Importing%20and%20Parsing%20data/download_rezults_to%20database.py)
 
 ##&emsp;Визуализация данных
+
 &emsp; В курсе по визуализации данных изучено применение библиотек matplotlib, seaborn и geopandas, а именно:
 - базовые типы визуализации(линейный график, областная, столбчатая и круговая диаграммы), 
 комбинирование разных типов визуализации на одном графике
@@ -35,6 +38,7 @@
 [link to code geo-map data](Visualisation%20data) 
 
 ##&emsp;Создание отчетов и автоматизация задач
+
 &emsp; В завершающем курсе изучена методика составления PDF-отчетов и работа с шаблонизаторами для автоматизации задач, а именно:
 - создан PDF-документ при помощи библиотеки *reportlab*, рассмотрены методики изменения документа и
 создание многостраничных отчетов [link to code PDF report](Reports%20and%20automation)
