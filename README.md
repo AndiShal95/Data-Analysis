@@ -3,13 +3,13 @@
 ### Базовый анализ данных
 &emsp; В рамках курса изучена работа с прикладными библиотеками *NumPy* и *Pandas* для базовой подготовки данных для анализа, а именно:
 - импорт данных(*формата .csv, .tsv*) из различных интернет ресурсов и локальных источников 
-[link to code import data](1_Basic%20Lib%20Data%20Analys/Import-data-Pandas.py)
+[link to code import data](https://github.com/AndiShal95/Data-Analysis/blob/main/1_Basic%20Data%20Analysis/Import-data-Pandas.py)
 - объединение данных из нескольких источников 
-в один "dataframe" [link to code multiple-sourses data](1_Basic%20Lib%20Data%20Analys/Multiple-sourses-data.py)
+в один "dataframe" [link to code multiple-sourses data](https://github.com/AndiShal95/Data-Analysis/blob/main/1_Basic%20Data%20Analysis/Multiple-sourses-data.py)
 - фильтрацию и извлечение нужных данных из "dataframe", а также преобразование данных для дальнейшего анализа
-[link to code extraction data](1_Basic%20Lib%20Data%20Analys/data-extraction.py)
+[link to code extraction data](https://github.com/AndiShal95/Data-Analysis/blob/main/1_Basic%20Data%20Analysis/data-extraction.py)
 - группировка данных и построение простого предсказания события на основе модели линейной регрессии
-[link to code extraction data](1_Basic%20Lib%20Data%20Analys/Predicting_LR.py)
+[link to code predicting data](https://github.com/AndiShal95/Data-Analysis/blob/main/1_Basic%20Data%20Analysis/Predicting_LR.py)
 
 ### Импорт и парсинг данных
 &emsp; В данном курсе рассмотрена работа с прикладными библиотеками requests и bs4 для работы с API и получением данных из HTML, то есть:
